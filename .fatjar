@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Fri Jan 11 16:41:09 CST 2019
+onejar.license.required=false
+excludes=
+manifest.removesigners=true
+manifest.mergeall=true
+includes=
+onejar.checkbox=true
+onejar.expand=
+manifest.classpath=
+jarname=C\:\\Users\\dell\\Desktop\\filedemo\\filedemo_fat999.jar
+jarname.isextern=true
+manifest.file=<createnew>
+manifest.mainclass=com.my.service.Main
